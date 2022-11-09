@@ -1,0 +1,6 @@
+C:\Users\Hossara\Desktop\app1\app1\app1\bin\Debug\app1.exe
+C:\Users\Hossara\Desktop\app1\app1\app1\bin\Debug\app1.pdb
+C:\Users\Hossara\Desktop\app1\app1\app1\obj\Debug\app1.csproj.AssemblyReference.cache
+C:\Users\Hossara\Desktop\app1\app1\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+C:\Users\Hossara\Desktop\app1\app1\app1\obj\Debug\app1.exe
+C:\Users\Hossara\Desktop\app1\app1\app1\obj\Debug\app1.pdb
